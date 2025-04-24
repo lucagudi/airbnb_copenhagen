@@ -8,7 +8,7 @@ The project transforms raw Airbnb listing data into a structured analytical data
 
 ## Dataset
 
-Download the dataset from [Google Drive Link]([https://drive.google.com/drive/folders/your-folder-id](https://drive.google.com/file/d/1b_6Xmv18RqVj7FD3m5uK8P0GfIZInjk4/view?usp=sharing))
+Download the dataset from [Google Drive Link](https://drive.google.com/file/d/1b_6Xmv18RqVj7FD3m5uK8P0GfIZInjk4/view?usp=sharing)
 
 ## Data Preparation Process
 
